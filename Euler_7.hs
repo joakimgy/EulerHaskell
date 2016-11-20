@@ -1,3 +1,6 @@
+module Euler_7 where
+
+
 --1. Declare p to be prime, and cross off all the multiples of that number in the
 --table, starting from p2;
 --2. Find the next number in the table after p that is not yet crossed off and set
